@@ -60,57 +60,25 @@
         <div class="vs-carousel" data-fade="true" data-arrows="true" data-dots="true">
             <div>
                 <div class="hero-inner">
-                    <div class="hero-bg" data-bg-src="assets/img/hero/hero-1-1.jpg"></div>
-                    <div class="vs-circle animated"></div>
-                    <div class="container">
-                        <div class="hero-content">
-                            <h1 class="hero-title animated">THE <span>WORLD’S #1 ONLINE</span> EDUCATION</h1>
-                            <p class="hero-text animated">Search over 200 individual encyclopedias and reference books
-                                from the worlds.</p>
-                            <div class="hero-btns animated">
-                                <a href="course.html" class="vs-btn style5"><i class="far fa-angle-right"></i>Explore
-                                    Courses</a>
-                            </div>
-                        </div>
-                    </div>
+                    <div class="hero-bg" data-bg-src="https://images.pexels.com/photos/1164572/pexels-photo-1164572.jpeg"></div>
+
+                    
                 </div>
             </div>
             <div>
                 <div class="hero-inner">
-                    <div class="hero-bg" data-bg-src="assets/img/hero/hero-1-2.jpg"></div>
-                    <div class="vs-circle animated"></div>
-                    <div class="container">
-                        <div class="hero-content">
-                            <h1 class="hero-title animated">Providing <span>#1 Quality</span> Education</h1>
-                            <p class="hero-text animated">Search over 200 individual encyclopedias and reference books
-                                from the worlds.</p>
-                            <div class="hero-btns animated">
-                                <a href="course.html" class="vs-btn style5"><i class="far fa-angle-right"></i>Explore
-                                    Courses</a>
-                            </div>
-                        </div>
-                    </div>
+                    <div class="hero-bg" data-bg-src="https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg"></div>
                 </div>
             </div>
             <div>
                 <div class="hero-inner">
-                    <div class="hero-bg" data-bg-src="assets/img/hero/hero-1-3.jpg"></div>
-                    <div class="vs-circle animated"></div>
-                    <div class="container">
-                        <div class="hero-content">
-                            <h1 class="hero-title animated">THE <span>Earth’S #1 Student</span> Choose</h1>
-                            <p class="hero-text animated">Search over 200 individual encyclopedias and reference books
-                                from the worlds.</p>
-                            <div class="hero-btns animated">
-                                <a href="course.html" class="vs-btn style5"><i class="far fa-angle-right"></i>Explore
-                                    Courses</a>
-                            </div>
-                        </div>
-                    </div>
+                    <div class="hero-bg" data-bg-src="https://images.pexels.com/photos/764681/pexels-photo-764681.jpeg"></div>
+
                 </div>
             </div>
         </div>
     </section>
+    
     <!--==============================
       Features
   ==============================-->
